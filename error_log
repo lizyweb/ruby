@@ -1,0 +1,69 @@
+[10-Dec-2023 13:48:54 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 13:48:54 UTC] PHP Stack trace:
+[10-Dec-2023 13:48:54 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 13:48:54 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'root', $password = '', $database = 'dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:13:48 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 14:13:48 UTC] PHP Stack trace:
+[10-Dec-2023 14:13:48 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 14:13:48 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'root', $password = '', $database = 'dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:15:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'rafeek'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 14:15:20 UTC] PHP Stack trace:
+[10-Dec-2023 14:15:20 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 14:15:20 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'rafeek', $password = 'rafeek@1234', $database = 'dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:15:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'rafeek'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 14:15:59 UTC] PHP Stack trace:
+[10-Dec-2023 14:15:59 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 14:15:59 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'rafeek', $password = 'rafeek@1234', $database = 'newbrigh_dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:16:22 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'rafeek'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 14:16:22 UTC] PHP Stack trace:
+[10-Dec-2023 14:16:22 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 14:16:22 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'rafeek', $password = 'rafeek@1234', $database = 'newbrigh_dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:18:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'rafeek'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/process.php on line 9
+[10-Dec-2023 14:18:14 UTC] PHP Stack trace:
+[10-Dec-2023 14:18:14 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/process.php:0
+[10-Dec-2023 14:18:14 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'rafeek', $password = 'rafeek@1234', $database = 'newbrigh_dental') /home/newbrigh/public_html/dental/process.php:9
+[10-Dec-2023 14:19:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/newbrigh/public_html/dental/search_results.php on line 9
+[10-Dec-2023 14:19:58 UTC] PHP Stack trace:
+[10-Dec-2023 14:19:58 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/search_results.php:0
+[10-Dec-2023 14:19:58 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'root', $password = '', $database = 'dental') /home/newbrigh/public_html/dental/search_results.php:9
+[10-Dec-2023 14:21:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/newbrigh/public_html/dental/search_results.php on line 9
+[10-Dec-2023 14:21:40 UTC] PHP Stack trace:
+[10-Dec-2023 14:21:40 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/search_results.php:0
+[10-Dec-2023 14:21:40 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = 'root', $password = '', $database = 'dental') /home/newbrigh/public_html/dental/search_results.php:9
+[10-Dec-2023 14:40:56 UTC] PHP Notice:  Undefined variable: username in /home/newbrigh/public_html/dental/allrecords.php on line 4
+[10-Dec-2023 14:40:56 UTC] PHP Stack trace:
+[10-Dec-2023 14:40:56 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:40:56 UTC] PHP Notice:  Undefined variable: username in /home/newbrigh/public_html/dental/allrecords.php on line 9
+[10-Dec-2023 14:40:56 UTC] PHP Stack trace:
+[10-Dec-2023 14:40:56 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:40:56 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'newbrigh'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/allrecords.php on line 9
+[10-Dec-2023 14:40:56 UTC] PHP Stack trace:
+[10-Dec-2023 14:40:56 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:40:56 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = NULL, $password = 'rafeek@1234', $database = 'newbrigh_dental') /home/newbrigh/public_html/dental/allrecords.php:9
+[10-Dec-2023 14:42:30 UTC] PHP Notice:  Undefined variable: username in /home/newbrigh/public_html/dental/allrecords.php on line 4
+[10-Dec-2023 14:42:30 UTC] PHP Stack trace:
+[10-Dec-2023 14:42:30 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:42:30 UTC] PHP Notice:  Undefined variable: username in /home/newbrigh/public_html/dental/allrecords.php on line 9
+[10-Dec-2023 14:42:30 UTC] PHP Stack trace:
+[10-Dec-2023 14:42:30 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:42:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'newbrigh'@'localhost' (using password: YES) in /home/newbrigh/public_html/dental/allrecords.php on line 9
+[10-Dec-2023 14:42:30 UTC] PHP Stack trace:
+[10-Dec-2023 14:42:30 UTC] PHP   1. {main}() /home/newbrigh/public_html/dental/allrecords.php:0
+[10-Dec-2023 14:42:30 UTC] PHP   2. mysqli->__construct($host = 'localhost', $user = NULL, $password = 'rafeek@1234', $database = 'newbrigh_dental') /home/newbrigh/public_html/dental/allrecords.php:9
+[10-Dec-2023 15:17:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 60
+[10-Dec-2023 15:17:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 60
+[10-Dec-2023 15:17:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 60
+[10-Dec-2023 15:18:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 61
+[10-Dec-2023 15:18:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 61
+[10-Dec-2023 15:18:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 60
+[10-Dec-2023 15:19:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/newbrigh/public_html/dental/edit_patient.php on line 60
+[23-Dec-2023 15:17:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'newbrigh_rafeek'@'localhost' (using password: YES) in /home1/maxoninf/public_html/dental/allrecords.php:163
+Stack trace:
+#0 /home1/maxoninf/public_html/dental/allrecords.php(163): mysqli->__construct('localhost', 'newbrigh_rafeek', Object(SensitiveParameterValue), 'newbrigh_dental')
+#1 {main}
+  thrown in /home1/maxoninf/public_html/dental/allrecords.php on line 163
+[23-Dec-2023 15:18:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'newbrigh_rafeek'@'localhost' (using password: YES) in /home1/maxoninf/public_html/dental/allrecordscsv.php:9
+Stack trace:
+#0 /home1/maxoninf/public_html/dental/allrecordscsv.php(9): mysqli->__construct('localhost', 'newbrigh_rafeek', Object(SensitiveParameterValue), 'newbrigh_dental')
+#1 {main}
+  thrown in /home1/maxoninf/public_html/dental/allrecordscsv.php on line 9
